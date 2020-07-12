@@ -1,13 +1,7 @@
 /* Base Styles */
 
-@font-face {
-  font-family: 'Harry Potter';
-  src: url('https://kavishnama.github.io/html-css-js-coursera/Week-2-Solution/css/harrypotter.TTF');
-}
-
 * {
     box-sizing: border-box;
-    font-family: 'Harry Potter';
 }
 
 h1 {
